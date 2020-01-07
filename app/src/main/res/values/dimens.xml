@@ -1,0 +1,22 @@
+<resources>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+
+    <dimen name="crumb_view_padding">12dp</dimen>
+
+    <dimen name="search_history_list_item_left">10dp</dimen>
+    <dimen name="search_history_list_item_padding">10dp</dimen>
+    <dimen name="common_dialog_message_height">98dp</dimen>
+    <dimen name="common_dialog_btn_text_size">17sp</dimen>
+    <dimen name="common_dialog_btn_height">48dp</dimen>
+    <dimen name="common_dialog_width">280dp</dimen>
+    <dimen name="common_dialog_height">146dp</dimen>
+    <dimen name="welcome_indicator_left_margin">4dp</dimen>
+    <dimen name="welcome_indicator_right_margin">4dp</dimen>
+    <dimen name="welcome_indicator_width">8dp</dimen>
+    <dimen name="setting_padding_left">12dp</dimen>
+    <dimen name="setting_padding_right">12dp</dimen>
+    <dimen name="item_codec_list_content_left">8dp</dimen>
+    <dimen name="setting_item_text_size">15sp</dimen>
+</resources>
